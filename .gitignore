@@ -8,4 +8,3 @@ coverage
 .DS_Store
 *.swp
 npm-debug.log
-dist
